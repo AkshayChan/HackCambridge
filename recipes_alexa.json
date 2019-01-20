@@ -1,0 +1,31 @@
+{"Bacon-Balsamic Vinaigrette": {
+	"title" : "Bacon-Balsamic Vinaigrette",
+    "prerequisites": "['5 thick bacon slices', 'cut crosswise into 1/2-inch pieces', '5 tablespoons olive oil', '1/4 cup balsamic vinegar', '3 tablespoons minced shallots', '1 tablespoon minced garlic', '1 tablespoon brown sugar']",
+    "recipe":
+     [{'instruction' : 'Cook bacon in heavy large skillet over medium heat until crisp.'},
+      {'instruction' : 'Using slotted spoon'}, 
+      {'instruction' : 'transfer to paper towels (reserve as garnish for Spinach Salad with Shrimp and Fennel).'},
+      {'instruction' : 'Remove skillet from heat.'},
+      {'instruction' :'Reserve 3 tablespoons drippings in skillet; mix in oil.'},
+      {'instruction' :'Whisk vinegar, shallots, garlic and brown sugar in small bowl.'},
+      {'instruction' :'Add to drippings in skillet.'},
+      {'instruction' :'Stir over medium-low heat just until warm. Season with salt and pepper.'},
+      {'instruction' :'Use warm.'}]",
+      "conclusion" : "That's the end of the dish",
+      "intro" : "Let's start the dish "
+    }
+ }
+
+ {"Bulgur, Pine Nut, and Red Pepper Pilaf": {
+ 	"title" : "Bulgur, Pine Nut, and Red Pepper Pilaf",
+    "prerequisites": "['1 small onion, chopped fine', '1 tablespoon vegetable oil', '1 cup plus 2 tablespoons chicken broth', '3 tablespoons finely diced red bell pepper', '3/4 cup bulgur*', '2 tablespoons pine nuts, toasted lightly', '2 teaspoons minced fresh chives',]"
+    "recipe": 
+    [{'instruction' : "In a small heavy saucepan cook onion in oil over moderate heat, stirring", until softened."},
+    {'instruction' :'Stir in broth, bell pepper, and bulgur and bring liquid to a boil.'} 
+    {'instruction' : 'Cook mixture, covered, over low heat 12 minutes, or until liquid is absorbed.'}, 
+    {'instruction' :'Remove pan from heat and let stand, covered, 5 minutes. Stir in pine nuts, chives, and salt and pepper to taste.'}]",
+    "conclusion" : "That's the end of the dish",
+    "intro" : "Let's start the dish "
+    
+  	}
+  }
